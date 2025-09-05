@@ -15,5 +15,7 @@ py_tts_venv/Scripts/activate
 
 ### 3. Install the packages
 ```bash
-pip install gTTS
+pip install pyttsx3
+pip install SpeechRecognition
+pip install pyaudio
 ```
